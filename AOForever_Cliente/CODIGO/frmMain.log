@@ -1,0 +1,50 @@
+Línea 36: la clase SocketWrenchCtrl.Socket del control Socket1 no era una clase de control cargada.
+Línea 76: la clase MSComctlLib.ImageList del control ImageList1 no era una clase de control cargada.
+Línea 86: la clase MSWinsockLib.Winsock del control Winsock2 no era una clase de control cargada.
+Línea 93: la clase MSWinsockLib.Winsock del control Winsock1 no era una clase de control cargada.
+Línea 279: la clase RichTextLib.RichTextBox del control RecTxt no era una clase de control cargada.
+Línea 39: el nombre de la propiedad _Version de Socket1 no es válido.
+Línea 40: el nombre de la propiedad _ExtentX de Socket1 no es válido.
+Línea 41: el nombre de la propiedad _ExtentY de Socket1 no es válido.
+Línea 42: el nombre de la propiedad _StockProps de Socket1 no es válido.
+Línea 43: el nombre de la propiedad AutoResolve de Socket1 no es válido.
+Línea 44: el nombre de la propiedad Backlog de Socket1 no es válido.
+Línea 45: el nombre de la propiedad Binary de Socket1 no es válido.
+Línea 46: el nombre de la propiedad Blocking de Socket1 no es válido.
+Línea 47: el nombre de la propiedad Broadcast de Socket1 no es válido.
+Línea 48: el nombre de la propiedad BufferSize de Socket1 no es válido.
+Línea 49: el nombre de la propiedad HostAddress de Socket1 no es válido.
+Línea 50: el nombre de la propiedad HostFile de Socket1 no es válido.
+Línea 51: el nombre de la propiedad HostName de Socket1 no es válido.
+Línea 52: el nombre de la propiedad InLine de Socket1 no es válido.
+Línea 53: el nombre de la propiedad Interval de Socket1 no es válido.
+Línea 54: el nombre de la propiedad KeepAlive de Socket1 no es válido.
+Línea 55: el nombre de la propiedad Library de Socket1 no es válido.
+Línea 56: el nombre de la propiedad Linger de Socket1 no es válido.
+Línea 57: el nombre de la propiedad LocalPort de Socket1 no es válido.
+Línea 58: el nombre de la propiedad LocalService de Socket1 no es válido.
+Línea 59: el nombre de la propiedad Protocol de Socket1 no es válido.
+Línea 60: el nombre de la propiedad RemotePort de Socket1 no es válido.
+Línea 61: el nombre de la propiedad RemoteService de Socket1 no es válido.
+Línea 62: el nombre de la propiedad ReuseAddress de Socket1 no es válido.
+Línea 63: el nombre de la propiedad Route de Socket1 no es válido.
+Línea 64: el nombre de la propiedad Timeout de Socket1 no es válido.
+Línea 65: el nombre de la propiedad Type de Socket1 no es válido.
+Línea 66: el nombre de la propiedad Urgent de Socket1 no es válido.
+Línea 79: el nombre de la propiedad _ExtentX de ImageList1 no es válido.
+Línea 80: el nombre de la propiedad _ExtentY de ImageList1 no es válido.
+Línea 82: el nombre de la propiedad ImageWidth de ImageList1 no es válido.
+Línea 83: el nombre de la propiedad ImageHeight de ImageList1 no es válido.
+Línea 84: el nombre de la propiedad _Version de ImageList1 no es válido.
+Línea 89: el nombre de la propiedad _ExtentX de Winsock2 no es válido.
+Línea 90: el nombre de la propiedad _ExtentY de Winsock2 no es válido.
+Línea 91: el nombre de la propiedad _Version de Winsock2 no es válido.
+Línea 96: el nombre de la propiedad _ExtentX de Winsock1 no es válido.
+Línea 97: el nombre de la propiedad _ExtentY de Winsock1 no es válido.
+Línea 98: el nombre de la propiedad _Version de Winsock1 no es válido.
+Línea 287: el nombre de la propiedad _ExtentX de RecTxt no es válido.
+Línea 288: el nombre de la propiedad _ExtentY de RecTxt no es válido.
+Línea 289: el nombre de la propiedad _Version de RecTxt no es válido.
+Línea 291: el nombre de la propiedad ReadOnly de RecTxt no es válido.
+Línea 292: el nombre de la propiedad ScrollBars de RecTxt no es válido.
+Línea 293: el nombre de la propiedad DisableNoScroll de RecTxt no es válido.
